@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#Dz1\C#Dz1\bin\Debug\net8.0\C#Dz1.exe
+C:\Users\User\source\repos\C#Dz1\C#Dz1\bin\Debug\net8.0\C#Dz1.deps.json
+C:\Users\User\source\repos\C#Dz1\C#Dz1\bin\Debug\net8.0\C#Dz1.runtimeconfig.json
+C:\Users\User\source\repos\C#Dz1\C#Dz1\bin\Debug\net8.0\C#Dz1.dll
+C:\Users\User\source\repos\C#Dz1\C#Dz1\bin\Debug\net8.0\C#Dz1.pdb
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.AssemblyInfo.cs
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.dll
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\refint\C#Dz1.dll
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.pdb
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\C#Dz1.genruntimeconfig.cache
+C:\Users\User\source\repos\C#Dz1\C#Dz1\obj\Debug\net8.0\ref\C#Dz1.dll
